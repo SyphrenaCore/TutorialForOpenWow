@@ -1,1 +1,1 @@
-# -s TutorialForOpenWow
+# -sTutorialForOpenWow
